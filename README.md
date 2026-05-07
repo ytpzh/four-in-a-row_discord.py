@@ -13,7 +13,7 @@ I'm not responsible for any bugs caused, and **I will not keep this code updated
 
 # How this work
 ## Prerequis
-[Python 3.8 or higher](https://www.python.org/) and [Git](https://git-scm.com/download/)
+[Python 3.10 or higher](https://www.python.org/) and [Git](https://git-scm.com/download/)
 
 ## Installation
 
