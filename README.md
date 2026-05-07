@@ -1,6 +1,6 @@
 # Four in a Row (Discord.py 2.3.0)
 
-Connect Four coded in Python and running on a Discord bot.  
+Four in a Row coded in Python and running on a Discord bot.  
 Two real players required. **No AI player!!**
 
 
