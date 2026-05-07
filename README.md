@@ -1,4 +1,4 @@
-# Four in a Row (Discord.py 2.3.0)
+# Four in a Row (Pycord 2.4.1)
 
 Four in a Row coded in Python and running on a Discord bot.  
 Two real players required. **No AI player!!**
@@ -26,9 +26,9 @@ git clone https://github.com/ytpzh/four-in-a-row_discord.py/
 ```bash
 cd four-in-a-row_discord.py
 ```
-3. Install discord.py and dotenv
+3. Install pycord and dotenv
 ```bash
-pip install discord.py python-dotenv
+pip install py-cord python-dotenv
 ```
 ## Start the bot
 
