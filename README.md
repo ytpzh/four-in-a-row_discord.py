@@ -26,9 +26,9 @@ git clone https://github.com/ytpzh/four-in-a-row_discord.py/
 ```bash
 cd four-in-a-row_discord.py
 ```
-3. Install discord.py
+3. Install discord.py and dotenv
 ```bash
-pip install discord.py
+pip install discord.py python-dotenv
 ```
 ## Start the bot
 
